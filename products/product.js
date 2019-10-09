@@ -2,4 +2,4 @@ console.log("HELLO WORLD");
 
 console.log("hey");
 
-hello
+console.log(hello);
